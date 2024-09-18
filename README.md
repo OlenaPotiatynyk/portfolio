@@ -1,6 +1,3 @@
-# Olena Potiatynyk
-Front-end Developer
-
 ## Summary
 Seasoned professional with over 14 years of experience across diverse fields including technology, TV, filmmaking, and media. **Over 4 years, specialized as a front-end developer**, bringing a unique blend of creative and technical skills to craft engaging and responsive interfaces. Adept at bridging the gap between design and functionality, with a strong focus on delivering exceptional user experiences through innovative solutions. Proven ability to thrive in fast-paced environments, ensuring projects are delivered on time while maintaining high standards of quality and performance.
 
