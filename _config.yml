@@ -1,6 +1,10 @@
 title: Olena Potiatynyk
 logo: /assets/images/avatar.png
 description: Front-end Developer
+email: olena.potiatynyk@gmail.com
+
+linkedin_username: olena-potiatynyk
+github_username: OlenaPotiatynyk
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
