@@ -2,7 +2,7 @@ Hi, I'm Lena, a passionate front-end developer with a creative twist! With over 
 
 [My LinkedIn Profile](https://www.linkedin.com/in/olena-potiatynyk/)
 
-Download my Resume
+[Download my Resume](assets/files/resume.pdf)
 
 ## Education
 ### National Technical University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institute"
