@@ -4,9 +4,7 @@ I'm a passionate front-end developer with a creative twist! With **over 4 years 
 
 San Jose, CA | Green card holder | Open to work in the US
 
-[My LinkedIn Profile](https://www.linkedin.com/in/olena-potiatynyk/)
-
-[Open my Resume](assets/files/resume.pdf)
+[My LinkedIn Profile](https://www.linkedin.com/in/olena-potiatynyk/) | [Open my Resume](assets/files/resume.pdf)
 
 ## Education
 ### National Technical University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institute"
@@ -28,6 +26,4 @@ This application built using HTML, CSS, and Vanilla JavaScript. It allows users 
 
 The goal of this project is to practice fundamental front-end development skills, focusing on DOM manipulation, event handling, and localStorage for data persistence. This application serves as a minimalistic, responsive solution for managing daily tasks, providing a clean and intuitive user experience [based on a provided design](https://www.figma.com/design/zPLqBMQ3eK4egEWt9icc2C/%D0%97%D0%B0%D0%B2%D0%B4%D0%B0%D0%BD%D0%BD%D1%8F-%D0%BD%D0%B0-%D0%BB%D0%B0%D0%B9%D0%B2%D0%BA%D0%BE%D0%B4%D0%B8%D0%BD%D0%B3?node-id=2-25&node-type=frame&t=zlaokxcAatMgu0vz-0).
 
-[Try it on HitHub Pages](https://olenapotiatynyk.github.io/todolist-vanillaJS/)
-
-[Find my code on GitHub](https://github.com/OlenaPotiatynyk/todolist-vanillaJS)
+[Try it on HitHub Pages](https://olenapotiatynyk.github.io/todolist-vanillaJS/) | [Find my code on GitHub](https://github.com/OlenaPotiatynyk/todolist-vanillaJS)
